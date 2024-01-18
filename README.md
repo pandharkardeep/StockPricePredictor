@@ -54,7 +54,7 @@ This will launch a local server, and you can view the Stock Price Predictor app 
 - Numpy
 - Pandas
 - Matplotlib
-- and others as specified in `requirements.txt`
+
 
 Feel free to explore and modify the code according to your needs. If you have any questions or suggestions, please feel free to contribute or open an issue.
 
