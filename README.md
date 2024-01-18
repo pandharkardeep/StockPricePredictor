@@ -43,7 +43,7 @@ This will launch a local server, and you can view the Stock Price Predictor app 
 ## Project Structure
 
 - `app.py`: Streamlit app script.
-- `model.py`: Contains the LSTM-based stock price predictor model using Tensorflow and Keras.
+- `main.ipynb`: Contains the LSTM-based stock price predictor model using Tensorflow and Keras.
 
 
 ## Dependencies
